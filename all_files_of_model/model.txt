@@ -1,1 +1,15 @@
+Model and Demo Files
 
+The trained YOLOv5 model weights and demo video are not included in this GitHub repository due to GitHub's file size limitations.
+
+They can be downloaded using the Google Drive link below:
+
+Model Weights:
+https://drive.google.com/file/d/1gt7_RS7Ph5UlzuhDha9nbbxsjpNvJ4Nn/view?usp=sharing
+
+Demo Video:
+https://drive.google.com/file/d/16ipRXRWEeMzmKlPfAMCNKrYlBq8S-qns/view?usp=sharing
+
+Files Included:
+- mot17_yolov5m_best.pt : Trained YOLOv5 object detection model.
+- mot17_tracked_demo.mp4 (or .avi) : Sample output demonstrating object detection, tracking, and anomaly detection.
