@@ -1,0 +1,4 @@
+video,precision,recall,f1,n_frames_compared,gt_anomaly_rate
+01.avi,0.444,0.748,0.557,,
+02.avi,0.12,0.753,0.207,1211.0,0.073
+03.avi,0.196,0.793,0.314,923.0,0.094
